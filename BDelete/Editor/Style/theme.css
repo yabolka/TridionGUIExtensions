@@ -1,0 +1,15 @@
+#ext_ToyotaMenu.item .image
+{
+	background-image: url({ThemePath['CME']}/Images/Icons/add.16x16.png);
+	
+	height: 16px;
+	width: 16px;
+}
+
+#ext_AdminTool.item .image
+{
+	background-image: url({ThemePath['CME']}/Images/Icons/execute.16x16.png);
+	height: 16px;
+	width: 16px;
+}
+
